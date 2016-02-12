@@ -245,7 +245,14 @@ function create_config( )
     "boobs",
     "9gag",
     "location",
-    "spammer"
+    "spammer",
+    "linkpv",
+    "joke",
+    "lock username",
+    "lock chat",
+    "danestani",
+    "jomlak",
+    "wiki"
     },
     sudo_users = {122997453,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
