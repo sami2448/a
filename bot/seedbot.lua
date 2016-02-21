@@ -254,7 +254,7 @@ function create_config( )
     "jomlak",
     "wiki"
     },
-    sudo_users = {122997453,0,tonumber(our_id)},--Sudo users
+    sudo_users = {122997453,95149435,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[TeleSalib V1.5 - 
